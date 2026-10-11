@@ -1,5 +1,7 @@
 # Excel Chart Viewer
 
+#### GitHub Repository: [cs50python_final_project](https://github.com/duongthuyyennhi/cs50python_final_project)
+
 #### Video Demo: <URL HERE>
 
 #### Description:
